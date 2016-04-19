@@ -1,9 +1,12 @@
 
 public class Main {
 
+ 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
-		System.out.print("HW");
+		 
+		System.out.print("Current time is");
+		System.out.println(ShowTime.show());
+		
 	}
 
 }

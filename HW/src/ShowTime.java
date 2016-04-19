@@ -3,7 +3,7 @@ import java.util.GregorianCalendar;
 
 public class ShowTime {
  
-	public Date show(){
+	public static Date show(){
 		
 		return GregorianCalendar.getInstance().getTime();
 		
