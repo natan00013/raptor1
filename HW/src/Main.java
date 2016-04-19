@@ -5,14 +5,14 @@ public class Main {
 	
 	public static void main(String[] args) {
 		 
-	System.out.print("Current time is");
-	System.out.println(ShowTime.show());
+		System.out.print("Current time is");
+		System.out.println(ShowTime.show());
 		
 	try { i = 5/0; } catch(Exception e) {
 	         if (e instanceof ArithmeticException) {  System.out.println(e); }
 	}
 
-	System.out.println("Commit Record");
+		System.out.println("Commit Record");
 	
 	}
 
