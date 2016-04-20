@@ -11,7 +11,7 @@ public class View implements IView {
 	}   
 	
 	@Override
-	public void draw() { 
+	public void draw() {   
 		 
 	}
 
