@@ -8,7 +8,7 @@ public class View implements IView {
 	
 		//Probably will get Model or Control
 		
-	}
+	}   
 	
 	@Override
 	public void draw() {
@@ -18,7 +18,7 @@ public class View implements IView {
 	@Override
 	public JFrame windows() {
 		 
-		return null;
+		return null; 
 	}
 	
 	 
