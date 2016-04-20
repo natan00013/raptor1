@@ -6,7 +6,7 @@ public class View implements IView {
 
 	public View() {
 	
-		//Probably will get Model or Control
+		//Will receive either Model or Control, most likely 
 		
 	}   
 	
