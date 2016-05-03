@@ -15,10 +15,7 @@ public class Main {
 
 		System.out.println("Commit Record_");
 		
-		Model m = new Model();
-		
-		View v = new View ();
-		
+		Model m = new Model(); View v = new View();
 		Control c = new Control(m,v);
 	
 	}
