@@ -2,8 +2,8 @@ package com;
 
 public class Control {
 
-	public Control() {
-		// TODO Auto-generated constructor stub
+	public Control(Model m, View v) {
+		 
 	}
 
 }

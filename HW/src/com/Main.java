@@ -3,9 +3,7 @@ package com;
 public class Main {
 
 	static int i;
-	
-	
-	
+
 	public static void main(String[] args) {
 		 
 		System.out.print("Current time is");
@@ -16,6 +14,12 @@ public class Main {
 	}
 
 		System.out.println("Commit Record_");
+		
+		Model m = new Model();
+		
+		View v = new View ();
+		
+		Control c = new Control(m,v);
 	
 	}
 
